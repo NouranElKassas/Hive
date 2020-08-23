@@ -26,7 +26,7 @@ open a file recharge.input
 ```sudo nano recharge_input.txt``` or
 ```sudo gedit recharge_input.txt``` 
 
-add those sample data
+add sample data
 ```
 987,eg,abc,xy1,A20,Sum,1,2000,20500110
 199,uk,xyz,xy5,A21,Sum,5,3000,20500110
