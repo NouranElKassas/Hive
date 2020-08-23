@@ -23,7 +23,8 @@ show tables in electricitycounter
 ```show tables;```
 
 open a file recharge.input
-```sudo nano recharge_input.txt```
+```sudo nano recharge_input.txt``` or
+```sudo gedit recharge_input.txt``` 
 
 add those sample data
 ```
